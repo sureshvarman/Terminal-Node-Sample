@@ -1,5 +1,7 @@
 ### Terminal Node.js Application with test suite and coverage
 
+###### Here the sample code is written for calculating fibbonacci series
+
 #### Requirements
 ```
 node > 14
