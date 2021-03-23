@@ -1,0 +1,16 @@
+{
+  "name": "fibonnaci-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest --detectOpenHandles",
+    "coverage": "jest --collect-coverage"
+  },
+  "author": "Suresh Varman S K",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
