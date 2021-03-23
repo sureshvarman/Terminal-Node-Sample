@@ -1,5 +1,5 @@
 /**
- * Function to convert the array to parser
+ * Function to convert the array to string
  * @param {Array<Number>} input 
  * @returns {String}
  */
