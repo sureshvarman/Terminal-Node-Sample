@@ -1,5 +1,5 @@
 /**
- * Function to have something similiar to strategy pattern, 
+ * Function to have something similiar to strategy pattern/Decorator Pattern, 
  * where the algorithm to process on stream are dynamic at runtime.
  * here the order is more important, and the chain is more important.
  * Don;t get confused of chain of responsibility pattern
